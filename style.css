@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #EBD2BE;
+}
+
+h1{
+    background-color: #45062E;
+    color:wheat ;
+    height: 5rem;
+    font-size: 70px;
+    text-align:center;
+}
